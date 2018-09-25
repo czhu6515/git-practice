@@ -2,3 +2,9 @@ index
 what
 sdsdsds
 dsss
+efjeifmemf
+img = src, alt, title 
+link = href, rel, type 
+form = method, action
+script = src
+input = label, type, name
